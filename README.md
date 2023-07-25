@@ -1,5 +1,9 @@
 # DoAn_WebShop_DUO
 
+**Thành viên nhóm**
+Nguyễn Thế Cường _ 2000004900
+Ngô Phước Sang _ 200000
+
 Đồ án môn Agile, đề tài trang web bán điện thoại.
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.

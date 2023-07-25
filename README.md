@@ -2,7 +2,7 @@
 
 **Thành viên nhóm**
 - Nguyễn Thế Cường _ 2000004900
-- Ngô Phước Sang _ 200000
+- Ngô Phước Sang _ 2000001530
 
 Đồ án môn Agile, đề tài trang web bán điện thoại.
 
